@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.7.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"$1" already exists.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130649Z">
+        <seg>"$1" już istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aperture</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130711Z">
+        <seg>Czas modyfikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Preset</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130719Z">
+        <seg>Usuń ze stosu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to reset?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130741Z">
+        <seg>Czy jesteś pewien?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch Output Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130547Z">
+        <seg>Wybierz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130540Z">
+        <seg>Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check here to show the Video Learning Center window when LightZone starts.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130705Z">
+        <seg>Jeśli otworzysz nowe zdjęcie w trakcie edycji innego, Lightzone może zapytać się co robić lub zapisać zmiany automatycznie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130648Z">
+        <seg>Wybierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Intensity</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130717Z">
+        <seg>Niebieski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130716Z">
+        <seg>Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Tools</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130712Z">
+        <seg>Kopiuj narzędzia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't find an Image path attribute</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130715Z">
+        <seg>Nie mogę odnaleźć znacznika obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't find an Image tag</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130715Z">
+        <seg>$1 jest pusty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't save to $1</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130548Z">
+        <seg>Wczytuję...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut Region</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130745Z">
+        <seg>shift Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130711Z">
+        <seg>Skasuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130719Z">
+        <seg>Włącz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to replace it?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130649Z">
+        <seg>Czy chcesz go zastąpić?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130711Z">
+        <seg>Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130719Z">
+        <seg>Włącz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to restore from preferences</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130734Z">
+        <seg>Otwieram...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130711Z">
+        <seg>Mój komputer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit image to screen</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130715Z">
+        <seg>Obrót</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130557Z">
+        <seg>VK_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Previews</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130715Z">
+        <seg>Nie mogę odnaleźć ścieżki obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Regions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130727Z">
+        <seg>Wysokość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you open an new image while you are still editing another image, LightZone can automatically save your work, or it can ask you what to do.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130705Z">
+        <seg>(Zadziała przy kolejnym uruchomieniu programu.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initializing Engine Utilities</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130734Z">
+        <seg>Uruchamiam silnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interactive Rendering</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130707Z">
+        <seg>Wybierz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid image file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130546Z">
+        <seg>Uszkodzony plik graficzny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is this right?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130738Z">
+        <seg>Plik "$1" nie może odnaleźć swojego obrazu - "$2", ale odnalazł "$3".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings Info</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130706Z">
+        <seg>Przywrócenie ustawien domyślnych oznacza powrót do stanu sprzed pierwszego uruchomienia programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings couldn't be reset</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130741Z">
+        <seg>Nie można było przywrócić ustawień domyślnych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings were successfully reset.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130741Z">
+        <seg>Pomyślnie przywrócono ustawienia fabryczne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone failed to start last time.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130739Z">
+        <seg>Zapisz szablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Classes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130734Z">
+        <seg>Wgrywam klasy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough memory</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130546Z">
+        <seg>Błąd odczytu pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130704Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130409Z">
+        <seg>Otwórz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste Tools...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130712Z">
+        <seg>Wklej narzędzia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pixels per inch</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130727Z">
+        <seg>Punktów na cal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130724Z">
+        <seg>Typ renderowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130704Z">
+        <seg>Ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130709Z">
+        <seg>Ocena $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rating</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130712Z">
+        <seg>Obrót w prawo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130555Z">
+        <seg>VK_U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove $1</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130719Z">
+        <seg>Pamiętaj parametry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Rating and Select Next</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130713Z">
+        <seg>Usuń ocenę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130650Z">
+        <seg>Zastąp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replacing it will overwrite its current contents.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130649Z">
+        <seg>Nadpisanie zniszczy aktualne dane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130714Z">
+        <seg>Zamień szerokość z wysokością</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset LightZone Settings</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130741Z">
+        <seg>Przywróć ustawienia domyślne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Left</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130712Z">
+        <seg>Użyj szablonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Right</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130712Z">
+        <seg>Obrót w lewo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saturation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130718Z">
+        <seg>Promień</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130652Z">
+        <seg>Zapisać</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130727Z">
+        <seg>Dopasuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scaled Print Size</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130727Z">
+        <seg>Rozmiar wydruku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Software Update to get the latest Java from Apple.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130731Z">
+        <seg>Zapisać</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130713Z">
+        <seg>Usuń ocenę i wybierz następny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a neutral color in the photo</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130728Z">
+        <seg>Szablony...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select an Image</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130735Z">
+        <seg>Otwórz zdjęcie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpen</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130721Z">
+        <seg>Wyostrzenie (maska wyostrzająca)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Crop Tool</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130714Z">
+        <seg>Przywróć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Finder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130745Z">
+        <seg>Eksportuj zdjęcie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130738Z">
+        <seg>Czy jeden z tych jest właściwym plikiem?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LightZone file, "$1" can't locate its image file, "$2".</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130738Z">
+        <seg>Plik "$1" nie może odnaleźć swojego obrazu - "$2".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130726Z">
+        <seg>Od góry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_A</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130554Z">
+        <seg>VK_T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_O</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130538Z">
+        <seg>VK_O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VK_X</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130745Z">
+        <seg>Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130747Z">
+        <seg>VK_S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to try resetting your LightZone Settings?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130739Z">
+        <seg>LightZone nie uruchomił się poprawnie ostatnim razem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>channel_mixer</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130722Z">
+        <seg>Balans bieli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>shift V</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130555Z">
+        <seg>VK_L</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

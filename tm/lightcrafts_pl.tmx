@@ -1,0 +1,3864 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">          
+<tmx version="1.1">                        
+  <header                                    
+    creationtool="OTimp"                   
+    creationtoolversion="1.3"              
+    segtype="paragraph"                    
+    o-tmf="OmegaT TMX"                     
+    adminlang="EN-US"                      
+    srclang="EN-US"                        
+    datatype="plaintext"                   
+  >                                          
+  </header>                                  
+  <body>                                     
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Quality</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Jakość</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>	Window positions and sizes</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>	Pozycję i rozmiary okien</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>All the Time</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Cały czas</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Unsupported camera</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ten aparat nie jest obsługiwany</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>No Recent Folders</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Brak</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Expand Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Rozwiń narzędzie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>To save work, the browser saves previews in a special cache folder.  This folder can go in the same place as its images (&quot;Local&quot;), or into one central location (&quot;Global&quot;).</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przeglądarka zapisuje miniaturki w specjalnym folderze. Może się on znajdować tam gdzie zdjęcia (&quot;lokalnie&quot;) lub w jednym, ogólnym folderze (zapis &quot;globalny&quot;).</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Bit Depth</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Głębia kolorów</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Grain Radius</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Promień ziarna</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Display the path of the current folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyświetl aktualną ścieżkę</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Apply Preset</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Użyj parametrów</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Scaled Print Size</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Rozmiar wydruku</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't interpret the file &quot;$1&quot; as a Style</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można zinterpretować pliku &quot;$1&quot; jako szablon</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>clone</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>clone</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>This reset will restore LightZone to its factory settings.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>To przywróci ustawienia domyślne.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Convert Image...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Eksportuj zdjęcie...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rotate the image 90 degrees counterclockwise</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obróć o 90 stopni przeciwnie do ruchu wskazówek zegara</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Interactive Rendering</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Renderowanie interaktywne</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>(LightZone must restart for this to take effect.)</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>(Zadziała przy kolejnym uruchomieniu programu.)</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_A</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_A</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Starting Logging</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zaczynam raportować</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Move $1 selected images to the Trash?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Naprawdę przenieść te pliki do kosza?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>0</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>0</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rating</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ocena</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Region Change</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zmiany obszarów</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Focal Length</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ogniskowa</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_G</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_G</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Open Normally</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Otwórz normalnie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_F</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_F</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_I</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_I</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_H</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_H</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_C</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_C</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't clear the global browser cache.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można wyczyścić danych globalnych.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Thumbnail Progress</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Miniaturki - postęp</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_B</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_B</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_E</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_E</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_L</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_L</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_M</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_M</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>E</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>E</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_P</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_P</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Always apply this Style to RAW images from &quot;$1&quot;</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zawsze używaj tego szablonu przy otwieraniu plików RAW z &quot;$1&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Verifying Libraries</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Sprawdzam biblioteki</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_N</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_N</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>B</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>B</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>C</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>C</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_O</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_O</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_T</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_T</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_U</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_U</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>M</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>M</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>N</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>N</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_R</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_R</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Opening...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Otwieram...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_S</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_S</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>O</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>O</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_X</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_X</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_V</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_V</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Choose</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wybierz</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>VK_W</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>VK_W</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Download Now</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ściągnij teraz</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Cut Region</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wytnij obszar</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Smart Sharpen</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Inteligentne wyostrzenie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show in Folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż w &quot;Folder&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>W</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>W</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>V</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>V</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Q</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Q</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rotate the image 90 degrees clockwise</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obróć o 90 stopni zgodnie z ruchem wskazówek zegara</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>P</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>P</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rename $1 to:</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zmienić nazwę $1 na:</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>S</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>S</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>R</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>R</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rotate</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obrót</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Y</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Y</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>X</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>X</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Z</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Z</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>White Balance</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Balans bieli</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Swap Tools</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przerzuć narzędzia</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Resize To</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zmień rozmiar do</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Save Style</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisz szablon</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't convert $1</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można wyeksportować do &quot;$1&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Error reading the file</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Błąd odczytu pliku</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hue/Saturation</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Barwa i nasycenie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show Details</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż szczegóły</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>The LightZone file, &quot;$1&quot; can't locate its image file, &quot;$2&quot;.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Plik &quot;$1&quot; nie może odnaleźć swojego obrazu - &quot;$2&quot;.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hide Crop Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ukryj kadrowanie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Quit</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyjście</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>$1 not found</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>nie odnaleziono $1</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Copy Tools</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Kopiuj narzędzia</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Enable</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Włącz</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Draw Bezier Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zaznacz obszar (bezier)</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>There was a problem checking for an update.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wystąpił problem podczas sprawdzania dostępnych uaktualnień.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rate $1</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ocena $1</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Converting...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Eksportowanie...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Between Region Changes</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przy każdej zmianie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't access the &quot;$1&quot; Style</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Odmowa dostępu do szablonu &quot;$1&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Proof</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Profile kolorów</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone has encountered an internal error.  What would you like to do?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>LightZone napotkał wewnętrzny błąd. Co chcesz zrobić?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Do you want to search for it?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czy chcesz go odnaleźć?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Delete Selected Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Skasuj wybrane obszary</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Sort Descending</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Sortuj malejąco</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Would you like to replace it?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czy chcesz go zastąpić?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Unknown error opening this file</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przy otwieraniu pliku wystąpił nieznany błąd</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Blue</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Niebieski</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't find an Image tag</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie mogę odnaleźć znacznika obrazu</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't delete $1.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie mogłem skasować $1.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Zone Type Change</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zmiana typu strefy</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Scale</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Skalowanie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't delete an older version of &quot;$1&quot;</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można wytrzeć starszej wersji &quot;$1&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>remove_noise</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>remove_noise</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Convert...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Eksportowanie...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Paste Tools...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wklej narzędzia...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Amount</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wartość</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Clear Recent Folders</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyczyść używane katalogi</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't move $1 to the Recycle Bin.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie udało się przenieść $1 do kosza.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Enforce aspect ratio constraints</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ustaw blokade proporcji</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Saturation</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nasycenie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>	Default settings for batch processing</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>	Domyślne ustawienia dla przetwarzania wsadowego</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Loading...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wczytuję...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Crash reports sent to Light Crafts are anonymous except for the sender's IP address.  Light Crafts embeds no personal data of any kind in these reports.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Raporty o błędach wysyłane do Light Crafts są anonimowe (oprócz adresu IP).  Light Crafts nie dołącza do raportu żadnych danych osobistych.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Cannot redo</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można przywrócić</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't save to $1</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można zapisać do &quot;$1&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Capture Time</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czas utworzenia</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show the Crop Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż narzędzie do kadrowania</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż obszary</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Printer Managed Colors</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Kolorami zarządza drukarka</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Failed to restore from preferences</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie udało się przywrócić ostatnich ustawień</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Copy Region</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Skopiuj obszar</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Auto-save is now on.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Automatyczne zapisywanie włączone.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Browser</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przeglądarka</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Style Number $1</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Szablon $1</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Threshold</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Próg</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>MINUS</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>MINUS</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Delete Point</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Skasuj punkt</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>This is the folder that LightZone will use to store data temporarily while you edit your photos.  If you have a fast hard disk, using a folder on it will enable LightZone to operate faster.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>To jest katalog w którym LightZone będzie trzymał tymczasowe dane.  Jeśli dysponujesz szybkim dyskiem twardym, umieść na nim ten plik, a LightZone będzie działał sprawniej.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't find an Image path attribute</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie mogę odnaleźć ścieżki obrazu</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Save As...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisz jako...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rename...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zmień nazwę...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Position</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pozycja</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show Rotate Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż obrót</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Initializing Engine Utilities</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Uruchamiam silnik</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rate $1 and Select Next</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Oceń na $1 i wybierz następny</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>A new version ($1) of $2 is available.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nowa wersja ($1) programu $2 jest dostępna.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>	Recently used files and directories</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>	Ostatnio używane pliki i katalogi</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Aperture</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przesłona</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Error Details</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Szczegóły błędu</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>$1 is an empty file</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>$1 jest pusty</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Saving...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisuję...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>&lt;html&gt;Kontynuuj (Program może działać niestabilnie)&lt;/html&gt;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hide print proofing tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż obraz bez profilowania</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>RGB</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>RGB</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>This file has no version number</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ten plik nie posiada numeru wersji</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Convert</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Eksportowanie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>EQUALS</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>EQUALS</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Send anonymous report to Light Crafts</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyślij raport do Light Crafts</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Online Help</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pomoc online</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Internal Error</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Błąd wewnętrzny</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Preferences...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ustawienia...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Save without asking from now on.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisuj nie pytając się więcej.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Luminosity</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Jasność</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>If you don't save, your changes will be lost.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Jeśli nie zapiszesz pliku wszystkie zmiany zostaną utracone.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Global</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Globalne</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hide the Crop Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ukryj narzędzie do kadrowania</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Gain</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przyrost</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Save Changes</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisać zmiany</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Zoom</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Maksymalizuj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>No Recent Files</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Brak</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>zones</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>zones</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Redo</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przywróć</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Pick a new scratch folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wybierz nowy katalog na dane tymczasowe</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show Inner Region</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż wewnętrzny region</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Unsupported color profile</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ten profil barwny nie jest obsługiwany</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Sharpen</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyostrzenie (maska wyostrzająca)</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Recently used files and folders</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ostatnio używane pliki i katalogi</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Settings Info</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Informacje o ustawieniach LightZone</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Browse Recent</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Używane katalogi</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Actual Pixels</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>1:1</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Collapse Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zwiń narzędzie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Scanning Color Profiles</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Sprawdzam profile barwne</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>OK</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>OK</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Remove Rating</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Usuń ocenę</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show in Finder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż w Finder</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hide Previews</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Schowaj podgląd</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>None</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Żaden</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>sharpen</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>sharpen</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Delete...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Usuń...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Contrast Mask</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Kontrast</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Temperature</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Temperatura</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>No update is available.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Brak nowych uaktualnień.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Save changes to $1?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisać zmiany w $1?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Move &quot;$1&quot; to the Trash?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Naprawdę przenieść ten plik do kosza?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>pixels</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>piksele</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>No Regions Defined</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie wskazano obszarów</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Move to Recycle Bin</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przenieś do kosza</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Select a Folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Brak zdjęć</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>channel_mixer</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>channel_mixer</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Scale to Fit</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Dopasuj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Color Management</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Kolor</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Are you sure you want to clear the global browser cache?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czy jesteś pewien, że chcesz wyczyścić wszystkie globalnie przechowywane dane przeglądarki?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Use This</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Użyj tego</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Settings Reset</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przywrócenie ustawień domyślnych.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show Previews</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż podgląd</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't import a Style from &quot;$1&quot;.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można przeczytać zablonu z &quot;$1&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Remove Aspect Ratio Constraints</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Usuń blokadę proporcji</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Startup Error</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Błąd przy starcie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>8 Bits/Channel</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>8 Bitów na Piksel</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Delete</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Skasuj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Browser Layout</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wygląd przeglądarki</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Apply Presets</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pamiętaj parametry</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>When launched, LightZone can automatically check if a newer version is available for download.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Program może przy uruchomieniu sprawdzać czy nie są dostępne aktualizacje.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hide Proof Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ukryj profile barwne</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Versions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wersje</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>This will discard preview images and orientations saved by the LightZone browser.  (The previews will be recomputed automatically.  You may have to restore orientations manually using the browser's rotate buttons.)</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>To wymaże miniaturki i zapamiętaną orientację zdjęć.  (Miniaturki będą automatycznie odtwarzane. Orientację przywrócić będzie można jedynie ręcznie.)</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Recent Folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ostatni katalog</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Slide right to increase thumbnail size</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Rozmiar miniaturek</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>An updated version of LightZone is required to read this file</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Aby przeczytać ten plik potrzebna jest zaktualizowana wersja LightZone</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Midpoint</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Balans</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Height</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wysokość</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Scratch Folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Katalog tymczasowy</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Clear cache</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyczyść globalne dane przeglądarki</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Settings Help</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pomoc</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Zone Placement</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Umiejscowienie strefy</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Green</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zielony</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Move to Trash...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przenieś do kosza...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Are you sure you want to reset?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czy jesteś pewien?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't rename &quot;$1&quot; to &quot;$2&quot;</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można zamienić &quot;$1&quot; na &quot;$2&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Move $1 selected images to the Recycle Bin?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Naprawdę przenieść te pliki do kosza?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>shift SLASH</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>shift SLASH</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>After the reset, LightZone must quit.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Po zmianie ustawień LightZone zostanie zamknięty.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Cyan-Red</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Turkus-Czerwony</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>You can turn it off in the LightZone Preferences.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Możesz je wyłączyć w ustawieniach LightZone.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>blur</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>blur</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Help</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pomoc</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Spline Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obszar (Spline)</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Done</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>OK</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Color Intensity</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Jasność kolorowego</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisując zdjęcie po raz pierwszy, program może automatycznie przejść do katalogu oryginalnego lub pozostać w ostatnim katalogu, w którym LightZone coś zapisywał.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Refresh</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Odśwież</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Malformed LightZone file</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Uszkodzony plik LightZone</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hide the Rotate Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ukryj narzędzie do obracania</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Always apply this Style</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zawsze używaj tego szablonu</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Restoring LightZone Settings means LightZone will work the way it did when it was new.  This can fix lots of problems, but loses your customizations.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przywrócenie ustawien domyślnych oznacza powrót do stanu sprzed pierwszego uruchomienia programu.  To może rozwiązać wiele problemów, ale wykasuje ustawienia użytkownika.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Compression</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Kompresja</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>You can go ahead and open this file, or you can try to import it as a LightZone Style.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Możesz otworzyć ten plik lub spróbować importować go jako szablon LightZone.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Replace</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zastąp</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Is one of these the right image?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czy jeden z tych jest właściwym plikiem?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rotate Right and Select Next</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obróć w prawo i wybierz następny</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Settings remember what was going on the last time you used LightZone.  The Settings include things like:</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Lightzone zapisuje informacje o ostatniej sesji programu.  Zapamiętywane są:</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone failed to start last time.  Resetting your LightZone Settings may fix this.  Would you like to try resetting your LightZone Settings?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>LightZone nie uruchomił się poprawnie ostatnim razem.  Przywrócenie ustawień domyślnych może to naprawić.  Czy chcesz przywrócić ustawienia domyślne?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Lens</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obiektyw</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't move $1 to the Trash.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie udało się przenieść $1 do kosza.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>No Open Windows</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Brak otwartych okien</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Zoom in</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Powiększenie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Remember Preset</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pamiętaj parametry</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Pixels per inch</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Punktów na cal</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Color Change</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zmiana koloru</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>spot</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>spot</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>temperature</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>temperature</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>An updated version of LightZone is required to read this Style</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Aby przeczytać ten szablon potrzebna jest zaktualizowana wersja LightZone</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Close Image</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zamknij zdjęcie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Window</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Okno</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Unrecognized image format</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nieznany format pliku</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show in Explorer</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż w Eksplorerze</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Move to Recycle Bin...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przenieś do kosza...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Tool Change</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zmiana narzędzia</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Crop</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Kadrowanie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Color Balance</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Balans kolorów</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Save as Style...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisz jako szablon...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Don't Save</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie zapisuj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Default settings for saving, printing, and converting</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Domyślne ustawienia dla zapisu, eksportowania i drukowania</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Paste Region Linked</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wklej powiązany obszar</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Color Profile</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Profil barwny</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Is this a LightZone Style file?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czy to jest szablon LightZone?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>No internet connection</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Brak połączenia z siecią.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Channel Mixer</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Mieszacz kanałów</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rotate Left</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obrót w lewo</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>About LightZone</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>O LightZone</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Print...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Drukowanie...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Move &quot;$1&quot; to the Recycle Bin?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Naprawdę przenieść ten plik do kosza?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Browser Cache</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przechowywanie danych</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Invert Masks</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Odwróć maskę</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Is this right?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czy jest to właściwy plik?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Clear</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyczyść</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>	Default settings for saving, printing, and converting</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>	Domyślne ustawienia dla zapisu, eksporotwania i wydruku</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>color_balance</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>color_balance</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Pick White Balance</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wybierz balans bieli</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone File Error</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>LightZone: błąd pliku</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Settings were successfully reset.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pomyślnie przywrócono ustawienia fabryczne.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Use $1</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Użyj $1</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>No Image</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Brak zdjęć</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Add $1</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Dodaj narzędzie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Center Image</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Na środku</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>	The amount of memory LightZone should use</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>	Ilość zarezerwowanej pamięci</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>No Styles</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Brak</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Move to Trash</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przenieś do kosza</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Debug</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Debug</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Open LightZone files to rotate them</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Otwórz plik LZN by go obrócić</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show Image Types</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż typy plików</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rotate Left and Select Next</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obróć w lewo i wybierz następny</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Radius</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Promień</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Common aspect ratios</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Typowe proporcje</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Swap width and height</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zamień szerokość z wysokością</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>&lt;html&gt;Exit without saving files&lt;/html&gt;</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>&lt;html&gt;Wyjdź bez zapisywania plików&lt;/html&gt;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Help</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pomoc LightZone</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rendering Intent</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Typ renderowania</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Pick White Point</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wybierz punkt bieli</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Loading Classes</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wgrywam klasy</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Color Handling</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zarządzanie kolorami</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Gaussian Blur</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Rozmazanie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show Browser</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż przeglądarkę</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Open</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Otwórz</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.  This can fix some problems, but loses your customizations and slows things down for a short while.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przywrócenie ustawień domyślnych oznacza powrót do ustawień z pierwszego uruchomienia programu. Może to rozwiązać pewne problemy, ale także kasuje wszystkie ustawienia użytkownika i spowalnia na krótki czas działanie programu.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Memory Limit</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ograniczenie pamięci</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Clear...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyczyść...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Gamma</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Gamma</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Color Cast</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Koloranta</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>shift V</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>shift V</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Yellow-Blue</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Żółty-Niebieski</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Revert...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przywróć...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>shift Z</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>shift Z</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Exposure</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Expozycja</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>When Regions are Done</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Po zakończeniu zaznaczania</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't rename &quot;$1&quot; to &quot;$2&quot;.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można zmienić nazwy &quot;$1&quot; na &quot;$2&quot;.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Add</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Dodaj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>shift S</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>shift S</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>alt 0</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>alt 0</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Application Managed Colors</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Kolorami zarządza program</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Save to Folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisz do katalogu</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Scanning $1...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Skanuję $1...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Zoom In</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Powiększ</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Error initializing browser</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Błąd przy uruchomieniu przeglądarki</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Color Radius</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Promień kolorowego</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Don't remind me</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie przypominaj mi więcej</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Are you sure you want to quit LightZone?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czy chcesz zamknąć LightZone?                                                       </seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Print</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Drukuj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Tools</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Narzędzia</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show Crop Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż kadrowanie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Cannot undo</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można cofnąć</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Save changes to this document before closing?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisać zmiany przed zamknięciem?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Tint</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Tinta</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>This Style has no version number</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ten szablon nie posiada numeru wersji</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Printer Profile</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Profil drukarki</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Set opacity</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ustaw krycie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Replacing it will overwrite its current contents.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nadpisanie zniszczy aktualne dane.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>A Style named &quot;$1&quot; already exists.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Szablon o nazwie &quot;$1&quot; już istnieje.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Continue</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Kontynuuj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rotate Right</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obrót w prawo</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>ToneMapper</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>ToneMapper</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Remove Rating and Select Next</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Usuń ocenę i wybierz następny</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Previewing...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Podgląd...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Product Page</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Strona LightZone</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Failed to save preferences</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie udało się zapisać ustawień</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hide Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ukryj obszary</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Pick Color</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wybierz kolor</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Cancel</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Anuluj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Bezier Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obszar (Bezier)</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Use RGB Zones</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Użyj stref RGB</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Polygonal Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obszar (wieloboki)</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Don't ask again</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie zadawaj więcej tego pytania                                                                            </seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Sets the upper limit on the amount of memory that LightZone will use.  A high limit enables LightZone operate faster and smoother; a low limit leaves more memory for other applications.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ustawia ilość wykorzystywanej przez program pamięci. Duża ilość pozwala pracować płynniej; mała ilość przydzielonej pamięci zachowuje ją dla innych programów.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Local</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Lokalne</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Red</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czerwony</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Remove from the stack</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Usuń ze stosu</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Reset Crop</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przywróć kadr</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Restoring Preferences</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przywracam ustawienia</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Draw Spline Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zaznacz obszar (spline)</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>If you open an new image while you are still editing another image, LightZone can automatically save your work, or it can ask you what to do.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Jeśli otworzysz nowe zdjęcie w trakcie edycji innego, Lightzone może zapytać się co robić lub zapisać zmiany automatycznie.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Grain Intensity</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Jasność ziarna</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Modification Time</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Czas modyfikacji</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Zoom Out</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pomniejsz</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Save</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapisać</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>The amount of memory LightZone should use</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ilość pamięci używanej przez program</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Reset</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przywróć</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Original Folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Oryginalny katalog</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Search</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Szukaj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hide Image Types</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Schowaj typy plików</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>File Name</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nazwa pliku</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Delete Region</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Skasuj obszar</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>ZoneMapper</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>ZoneMapper</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Clear Recent Files</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyczyść ostatnio używane</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hide Rotate Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ukryj obrót</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>My Computer</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Mój komputer</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Set the angle of rotation in degrees</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ustaw kąt obrotu w stopniach</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>&quot;$1&quot; already exists.  Do you want to replace it?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>&quot;$1&quot; już istnieje.  Czy chcesz go zastąpić?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Open...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Otwórz...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Checking for update...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Sprawdzam uaktualnienia...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Magenta-Green</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Karmazyn-Zielony</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Top</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Od góry</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>OPEN_BRACKET</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>OPEN_BRACKET</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Apply Style</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Użyj szablonu</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hide Inner Region</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ukryj wewnętrzny obszar</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Auto Save</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zapis automatyczny</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Editor Layout</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wygląd edytora</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Error applying Style &quot;$1&quot;</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Błąd przy użyciu szablonu &quot;$1&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Settings remember what was going on the last time you used LightZone: your recently used files and folders; recent window positions and sizes; and so on.  Resetting these can help fix some problems, but loses your customizations.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>LightZone pamięta stan programu: ostatnio uzywane pliki; rozmiar i pozycję okna; itp.  Ustawienia domyślne zniszczą twoje, ale mogą pomóc gdy program źle działa.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Sort Ascending</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Sortuj rosnąco</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Left</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Od lewej</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Open Recent</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ostatnio używane</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Find $1</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Odnajdź $1</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Settings Error</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Błąd ustawień LightZone</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Check for Update</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Aktualizuj program</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Hue</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Barwa</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Opacity Change</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zmiana krycia</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Paste Region</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wklej obszar</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Reset...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ustawienia domyślne...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>The LightZone file, &quot;$1&quot; can't locate its image file, &quot;$2&quot;, but it found &quot;$3&quot; instead.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Plik &quot;$1&quot; nie może odnaleźć swojego obrazu - &quot;$2&quot;, ale odnalazł &quot;$3&quot;.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Shutter Speed</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Migawka</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Zoom out</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pomniejszenie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't find the original image</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie mogę odnaleźć pliku oryginalnego</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rotate the image</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obróć</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>&quot;$1&quot; already exists as a folder.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>&quot;$1&quot; istnieje.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rotate the image (fine)</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obróć powoli</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Choose the browser sort criteria</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Sortuj zdjęcia</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Go back to previously selected folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Powrót</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Blend Mode Change</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zmiana sposobu nakładania</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zaznaczając obszary, LightZone może odświeżać zdjęcie w czasie rzeczywistym, przy każdej zmianie obszaru lub po zakończeniu zaznaczania obszaru.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Insufficient memory to open this file</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Za mało pamięci by otworzyć plik</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Select an Image</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Użyj miniaturki by otworzyć zdjęcie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Resetting LightZone Settings will restore LightZone to its factory settings.  Are you sure you want to reset?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przywrócenie ustawień domyślnych wytrze aktualne, czy jesteś pewien, że chcesz to zrobić?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>ZoneMapper,ToneMapperV5,UnSharpMaskV3,GaussianBlur,Hue/SaturationV3,ColorBalanceV3,WhitePointV3,ChannelMixerV4,AdvancedNoiseReductionV3,Clone,Spot,RedEyes</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>ZoneMapper,ToneMapperV2,UnSharpMaskV3,GaussianBlur,Hue/SaturationV2,ColorBalanceV2,WhitePointV3,ChannelMixerV3,AdvancedNoiseReductionV3,Clone,Spot,RedEyes</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Manage Styles...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Szablony...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Use Luminosity Zones</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Użyj stref jasności</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Draw Polygon Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zaznacz obszar (wielokąty)</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Remind me later</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przypomnij mi później</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show print proofing tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż obraz z użyciem profilu barwnego</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Spot</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Usuwanie plam</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>CLOSE_BRACKET</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>CLOSE_BRACKET</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Exit</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyjście</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Advanced Options</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Opcje zaawansowane</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Online User Guide</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Podręcznik online</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>New Window</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nowe okno</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone has run out of memory and will now shut down.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Skończyła się pamięć i LightZone zostanie zamknięty.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>All</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wszystkie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Settings couldn't be reset</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można było przywrócić ustawień domyślnych</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>hue_saturation</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>hue_saturation</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Don't Reset</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie przywracaj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Scanning Saved Documents</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Sprawdzam zapisane pliki</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>contrast</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>contrast</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Go forward to recently selected folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Naprzód</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show/Hide Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż/ukryj obszary</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Width</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Szerokość</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>White Point Change</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Zmiana punktu bieli</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Noise Reduction</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Redukcja szumu</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Open an Image</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Otwórz zdjęcie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>&lt;html&gt;Save all files and exit  &lt;b&gt;(Recommended)&lt;/b&gt;&lt;/html&gt;</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>&lt;html&gt;Zapisz wszystkie pliki i wyjdź &lt;b&gt;(Zalecane)&lt;/b&gt;&lt;/html&gt;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Invalid image file</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Uszkodzony plik graficzny</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Window positions and sizes</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pozycje i rozmiar okien</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Page Setup...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ustawienia papieru...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Clone</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Klonowanie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Reset LightZone Settings</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Przywróć ustawienia domyślne</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>16 Bits/Channel</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>16 Bitów na Piksel</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Printing...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Drukowanie...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Minimize</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Minimalizuj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Any</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Dowolny</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Bring All to Front</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wszystko na wierzch</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't save this Style</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można zapisać szablonu &quot;$1&quot; w pliku &quot;$2&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Disable</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wyłącz</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't find a Style named &quot;$1&quot;</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można odnaleźć szablonu &quot;$1&quot;</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Really delete this file?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Naprawdę skasować ten plik?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Choose...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Wybierz...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Zoom To Fit</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Dopasuj do okna</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Detail</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Detale</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Your computer needs to be connected to the internet to check for an update. Please connect, then try again.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Twój komputer musi być podłączony do internetu by sprawdzić dostępne uaktualnienia. Sprawdż połączenie i spróbuj jeszcze raz.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Preferences</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ustawienia</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>File Size</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Rozmiar pliku</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Show Proof Tool</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pokaż profile barwne</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>	Thumbnail copies of your images</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>	Miniaturki zdjęć</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Really delete these files?</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Naprawdę skasować te pliki?</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Recently used settings for tools</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ostatnie ustawienia narzędzi</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>whitepoint</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>whitepoint</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Edit</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Edytuj</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Undo</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Cofnij</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>File</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Pliki</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Remove $1</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Usuń narzędzie</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Regions</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Obszary</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't rename the XMP file for &quot;$1&quot;.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie udało się zmienić nazwy pliku XMP dla &quot;$1&quot;.</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Import as Style</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Importuj jako szablon</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Name</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nazwij szablon</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Default settings for batch processing</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Domyślne ustawienia dla przetwarzania wsadowego</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Rescan Folder</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Odśwież katalog</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Couldn't print</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Nie można wydrukować</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>Check for Update...</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Sprawdź uaktualnienia...</seg>             
+      </tuv>                             
+    </tu>                                
+    <tu>                                 
+      <tuv lang="EN-US">      
+        <seg>LightZone Settings were successfully reset.  LightZone must now quit.</seg>               
+      </tuv>                             
+      <tuv lang="PL">      
+        <seg>Ustawienia programu zostały zresetowane. Lightzone musi sie teraz zamknąć.</seg>             
+      </tuv>                             
+    </tu>                                
+  </body>                                   
+</tmx>                                      
