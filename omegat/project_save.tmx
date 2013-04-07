@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go back to previously selected folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T135427Z">
+        <seg>Powrót</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grain Intensity</seg>
       </tuv>
       <tuv lang="PL" changeid="ktgw0316" changedate="20130407T131623Z">
@@ -1408,8 +1416,8 @@
       <tuv lang="EN-US">
         <seg>Hue/Saturation</seg>
       </tuv>
-      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T131812Z">
-        <seg>Barwa i nasycenie</seg>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T134058Z">
+        <seg>Barwa/Nasycenie</seg>
       </tuv>
     </tu>
     <tu>
