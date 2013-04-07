@@ -776,16 +776,16 @@
       <tuv lang="EN-US">
         <seg>Couldn't find an Image path attribute</seg>
       </tuv>
-      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130715Z">
-        <seg>Nie mogę odnaleźć znacznika obrazu</seg>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T133154Z">
+        <seg>Nie mogę odnaleźć ścieżki obrazu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't find an Image tag</seg>
       </tuv>
-      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130715Z">
-        <seg>$1 jest pusty</seg>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T133148Z">
+        <seg>Nie mogę odnaleźć znacznika obrazu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1344,8 +1344,8 @@
       <tuv lang="EN-US">
         <seg>Hide Previews</seg>
       </tuv>
-      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130715Z">
-        <seg>Nie mogę odnaleźć ścieżki obrazu</seg>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T133142Z">
+        <seg>Schowaj podgląd</seg>
       </tuv>
     </tu>
     <tu>
@@ -2376,8 +2376,8 @@
       <tuv lang="EN-US">
         <seg>Redo</seg>
       </tuv>
-      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130555Z">
-        <seg>VK_U</seg>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T132811Z">
+        <seg>Przywróć</seg>
       </tuv>
     </tu>
     <tu>
@@ -2616,8 +2616,8 @@
       <tuv lang="EN-US">
         <seg>Rotate Left</seg>
       </tuv>
-      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T131009Z">
-        <seg>Obrót w lewo</seg>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T133659Z">
+        <seg>Obróć w lewo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2632,8 +2632,8 @@
       <tuv lang="EN-US">
         <seg>Rotate Right</seg>
       </tuv>
-      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T131013Z">
-        <seg>Obrót w prawo</seg>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T133810Z">
+        <seg>Obróć w prawo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2904,8 +2904,8 @@
       <tuv lang="EN-US">
         <seg>Sharpen</seg>
       </tuv>
-      <tuv lang="PL" changeid="ktgw0316" changedate="20130404T130721Z">
-        <seg>Wyostrzenie (maska wyostrzająca)</seg>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T133952Z">
+        <seg>Wyostrzenie</seg>
       </tuv>
     </tu>
     <tu>
