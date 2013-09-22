@@ -3760,8 +3760,8 @@
       <tuv lang="EN-US">
         <seg>ZoneMapper,ToneMapperV5,UnSharpMaskV3,GaussianBlur,Hue/SaturationV3,ColorBalanceV3,WhitePointV3,ChannelMixerV4,AdvancedNoiseReductionV3,Clone,Spot,RedEyes</seg>
       </tuv>
-      <tuv lang="PL" changeid="ktgw0316" changedate="20130407T131757Z">
-        <seg>ZoneMapper,ToneMapperV2,UnSharpMaskV3,GaussianBlur,Hue/SaturationV2,ColorBalanceV2,WhitePointV3,ChannelMixerV3,AdvancedNoiseReductionV3,Clone,Spot,RedEyes</seg>
+      <tuv lang="PL" changeid="ktgw0316" changedate="20130907T021602Z">
+        <seg>ZoneMapper,ToneMapperV5,UnSharpMaskV3,GaussianBlur,Hue/SaturationV3,ColorBalanceV3,WhitePointV3,ChannelMixerV4,AdvancedNoiseReductionV3,Clone,Spot,RedEyes</seg>
       </tuv>
     </tu>
     <tu>
